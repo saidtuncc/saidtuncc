@@ -1,6 +1,6 @@
 <h1 align="center">Merhaba 👋, Ben Said</h1>
 <h3 align="center">Bilgisayar Mühendisliği Öğrencisiyim</h3>
-<p align="left"> Flutter alanında kendimi geliştiriyor ve çalışmalar yapıyorum </p>
+
 
 ![coding](https://user-images.githubusercontent.com/113348653/223665692-1c3f7e91-3c32-48e8-9760-afa53a5d2d7e.gif)
 
