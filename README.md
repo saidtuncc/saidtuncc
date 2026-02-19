@@ -3,7 +3,7 @@
 
 I build workflow automations and small software tools that connect systems through APIs, move data reliably, and reduce manual work.
 
-**🛠 Stack:** n8n · Python · TypeScript/JavaScript · C# · SQL  
+**🛠 Stack:** n8n · Python · TypeScript/JavaScript · SQL  
 
 **Also:** applied ML / data-driven projects
 
