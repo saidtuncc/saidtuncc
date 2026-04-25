@@ -20,9 +20,6 @@ I build reliable automation workflows and full-stack solutions that eliminate ma
 - **[SaleSense](https://github.com/saidtuncc/SaleSense)** — Real-time sales forecasting & analytics
 - **[n8n-erp-pack](https://github.com/saidtuncc/n8n-erp-pack)** — ERP & multi-platform integrations
 
-### 📈 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saidtuncc&show_icons=true&theme=radical&hide_border=true)
-
 ---
 
 **Always building clean, maintainable and production-ready code.**
